@@ -1,0 +1,7 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/acepalma.css: {}
+  js:
+    js/acepalma.js: {}
