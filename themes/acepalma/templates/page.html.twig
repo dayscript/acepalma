@@ -94,62 +94,67 @@
             </div>
           {% endif %}
           {% if page.header %}
-            <div class="large-12 columns">
+            <div class="large-10 columns">
               {{ page.header }}
             </div>
           {% endif %}
         </header>
       </div>
-
-      <div class="row">
-        {% if show_account_info %}
-          <div class="{{ site_slogan ? 'large-6' : 'large-4 columns large-offset-8' }} columns hide-for-small">
-            <p>
-              {% if logged_in %}
-                <a href="{{ path('user.page') }}">{{ 'My Account'|t }}</a>
-                <a href="{{ path('user.logout') }}">{{ 'Logout'|t }}</a>
-              {% else %}
-                <a href="{{ path('user.login') }}">{{ 'Login'|t }}</a>
-                <a href="{{ path('user.register') }}">{{ 'Sign Up'|t }}</a>
-              {% endif %}
-            </p>
-          </div>
-        {% endif %}
-        {% if site_slogan %}
-          <div class="large-6 columns hide-for-small">
-            {{ site_slogan }}
-          </div>
-        {% endif %}
-        {% if show_account_info %}
-          <div class="show-for-small">
-            <div class="six mobile-two columns">
+      <div class="container-account">
+        <div class="row">
+          {% if show_account_info %}
+            <div class="{{ site_slogan ? 'large-6' : 'large-4 columns large-offset-8' }} columns hide-for-small">
               <p>
-                <a href="{{ path('user.login') }}" class="radius button">{{ 'Login'|t }}</a>
+                {% if logged_in %}
+                  <a href="{{ path('user.page') }}">{{ 'My Account'|t }}</a>
+                  <a href="{{ path('user.logout') }}">{{ 'Logout'|t }}</a>
+                {% else %}
+                  <a href="{{ path('user.login') }}">{{ 'Login'|t }}</a>
+                  <a href="{{ path('user.register') }}">{{ 'Sign Up'|t }}</a>
+                {% endif %}
               </p>
             </div>
-            <div class="six mobile-two columns">
-              <p>
-                <a href="{{ path('user.register') }}" class="radius success button">{{ 'Sign Up'|t }}</a>
-              </p>
+          {% endif %}
+          {% if site_slogan %}
+            <div class="large-6 columns hide-for-small">
+              {{ site_slogan }}
             </div>
-          </div>
-        {% endif %}
+          {% endif %}
+          {% if show_account_info %}
+            <div class="show-for-small">
+              <div class="six mobile-two columns">
+                <p>
+                  <a href="{{ path('user.login') }}" class="radius button">{{ 'Login'|t }}</a>
+                </p>
+              </div>
+              <div class="six mobile-two columns">
+                <p>
+                  <a href="{{ path('user.register') }}" class="radius success button">{{ 'Sign Up'|t }}</a>
+                </p>
+              </div>
+            </div>
+          {% endif %}
+        </div>
       </div>
 
       {% if messages and not zurb_foundation_messages_modal %}
-      <div class="l-messages row">
-        <div class="large-12 columns">
-          {{ messages }}
+      <div class="container-messages">
+        <div class="l-messages row">
+          <div class="large-12 columns">
+            {{ messages }}
+          </div>
         </div>
       </div>
       {% endif %}
 
       {% if page.help %}
-      <div class="l-help row">
-        <div class="large-12 columns">
-          {{ page.help }}
+      <div class="container-help">
+        <div class="l-help">
+          <div class="large-12">
+            {{ page.help }}
+          </div>
         </div>
-      </div>
+      <div>
       {% endif %}
 
       <div class="row">
@@ -162,7 +167,7 @@
           <a id="main-content"></a>
           {% if breadcrumb %} {{ breadcrumb }} {% endif %}
           <section>
-            {{ page.content }}
+            <!--   {{ page.content }} -->
           </section>
         </main>
         {% if page.sidebar_first %}

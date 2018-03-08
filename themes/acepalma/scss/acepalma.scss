@@ -70,7 +70,7 @@ $flex: false;
 @import 'layout/footer';
 
 // Modules
-// @import 'modules/block';
+@import 'modules/block';
 // @import 'modules/button';
 
 // States
@@ -81,3 +81,9 @@ $flex: false;
 
 // Older IE support
 // @import 'vendor/ie';
+
+$body-color-background: #f6f6f6;
+
+body {
+  background-color: $body-color-background;
+}
