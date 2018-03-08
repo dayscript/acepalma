@@ -36,6 +36,9 @@ function acepalma_preprocess_node(&$variables) {
  * Add convenience variables and template suggestions
  */
 function acepalma_preprocess_page(&$variables) {
+  if (isset($variables['page']['content']['system_main']['#markup'])) {
+    unset($variables['page']['content']['system_main']['#markup']);
+  }
 }
 
 /**

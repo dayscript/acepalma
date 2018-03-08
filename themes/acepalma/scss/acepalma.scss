@@ -69,6 +69,10 @@ $flex: false;
 @import 'layout/aside';
 @import 'layout/footer';
 
+//Fonts
+
+// @import 'fonts/lato-font';
+
 // Modules
 @import 'modules/block';
 // @import 'modules/button';
@@ -82,8 +86,54 @@ $flex: false;
 // Older IE support
 // @import 'vendor/ie';
 
-$body-color-background: #f6f6f6;
 
 body {
   background-color: $body-color-background;
+}
+
+.main-content {
+  .js-view-dom-id-aabb22eac990f96ee91873f47f3af2c8e2ba4fea5d5072e3041213503b804173 {
+    display: none;
+  }
+}
+
+.container-content {
+  background-color: $white;
+}
+
+// Styles Footer
+.footer {
+  background-color: $footer-color-background;
+}
+
+.menu {
+  li {
+    a {
+      color: $white;
+    }
+  }
+}
+
+.bottom-bar {
+  background-color: $footer-color-background;
+}
+
+.rights-reserved {
+  color: $white;
+}
+
+// Styles Titles
+h1,
+h2 {
+  color: $color-title;
+  font-weight: 700;
+  text-transform: uppercase;
+  }
+
+.views-field-title {
+  a {
+    color: $aceplama-blue;
+    font-size: 20px;
+    font-weight: 600;
+    }
 }

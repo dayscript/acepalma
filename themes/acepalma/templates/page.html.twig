@@ -154,22 +154,36 @@
             {{ page.help }}
           </div>
         </div>
-      <div>
+      </div>
       {% endif %}
-
-      <div class="row">
-        <main id="main" class="{{ main_grid }} columns" role="main">
-          {% if page.highlighted %}
-            {% spaceless %}
-              {{ page.highlighted }}
-            {% endspaceless %}
-          {% endif %}
-          <a id="main-content"></a>
-          {% if breadcrumb %} {{ breadcrumb }} {% endif %}
-          <section>
-            <!--   {{ page.content }} -->
-          </section>
-        </main>
+      <div class="container-help">
+        <div class="row">
+          <main id="main" class="{{ main_grid }} columns" role="main">
+            {% if page.highlighted %}
+              {% spaceless %}
+                {{ page.highlighted }}
+              {% endspaceless %}
+            {% endif %}
+            <a id="main-content"></a>
+            {% if breadcrumb %} {{ breadcrumb }} {% endif %}
+          </main>
+        </div>
+      </div>
+      <div class="container-content">
+        <div class="row">
+            <section class="main-content">
+                {{ page.content }}
+            </section>
+        </div>
+      </div>
+      <div class="container-subcontent">
+        <div class="row">
+            <section class="main-subcontent">
+                {{ page.subcontent }}
+            </section>
+        </div>
+      </div>
+      <div>
         {% if page.sidebar_first %}
           <div id="sidebar-first" class="{{ sidebar_first_grid }} columns sidebar ">
             {{ page.sidebar_first }}
@@ -182,27 +196,29 @@
         {% endif %}
       </div>
       {% if page.footer_first or page.footer_middle or page.footer_last %}
-        <footer class="row">
-          {% if page.footer_first %}
-            <div id="footer-first" class="large-4 columns">
-              {{ page.footer_first }}
-            </div>
-          {% endif %}
-          {% if page.footer_middle %}
-            <div id="footer-middle" class="large-4 columns">
-              {{ page.footer_middle }}
-            </div>
-          {% endif %}
-          {% if page.footer_last %}
-            <div id="footer-last" class="large-4 columns">
-              {{ page.footer_last }}
-            </div>
-          {% endif %}
-        </footer>
+        <div class="footer">
+          <footer class="row">
+            {% if page.footer_first %}
+              <div id="footer-first" class="large-4 columns">
+                {{ page.footer_first }}
+              </div>
+            {% endif %}
+            {% if page.footer_middle %}
+              <div id="footer-middle" class="large-12 columns">
+                {{ page.footer_middle }}
+              </div>
+            {% endif %}
+            {% if page.footer_last %}
+              <div id="footer-last" class="large-4 columns">
+                {{ page.footer_last }}
+              </div>
+            {% endif %}
+          </footer>
+        </div>
       {% endif %}
       <div class="bottom-bar panel">
         <div class="row">
-          <div class="large-12 columns">
+          <div class="large-12 columns text-center rights-reserved">
           &copy; {{ "now"|date('Y') }} {{ site_name }} {{ 'All rights reserved.'|t }}
           </div>
         </div>
