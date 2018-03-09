@@ -158,7 +158,7 @@
       {% endif %}
       <div class="container-help">
         <div class="row">
-          <main id="main" class="{{ main_grid }} columns" role="main">
+          <main id="main" class="large-12" role="main">
             {% if page.highlighted %}
               {% spaceless %}
                 {{ page.highlighted }}
@@ -169,31 +169,29 @@
           </main>
         </div>
       </div>
-      <div class="container-content">
-        <div class="row">
-            <section class="main-content">
-                {{ page.content }}
-            </section>
-        </div>
+      <div class="row">
+          {% if page.sidebar_second %}
+            <div id="sidebar-second" class="{{ sidebar_sec_grid }} columns sidebar">
+              {{ page.sidebar_second }}
+            </div>
+          {% endif %}
+          <section class="main-content large-9 columns">
+              {{ page.content }}
+          </section>
       </div>
-      <div class="container-subcontent">
-        <div class="row">
-            <section class="main-subcontent">
-                {{ page.subcontent }}
-            </section>
-        </div>
-      </div>
-      <div>
+      <div class="row">
         {% if page.sidebar_first %}
-          <div id="sidebar-first" class="{{ sidebar_first_grid }} columns sidebar ">
+          <div id="sidebar-first" class="columns sidebar"> <!--class="{{ sidebar_first_grid }}-->
             {{ page.sidebar_first }}
           </div>
         {% endif %}
-        {% if page.sidebar_second %}
-          <div id="sidebar-second" class="{{ sidebar_sec_grid }} columns sidebar">
-            {{ page.sidebar_second }}
-          </div>
-        {% endif %}
+      </div>
+      <div class="container-subcontent">
+        <div class="row">
+            <section class="main-subcontent columns">
+                {{ page.subcontent }}
+            </section>
+        </div>
       </div>
       {% if page.footer_first or page.footer_middle or page.footer_last %}
         <div class="footer">

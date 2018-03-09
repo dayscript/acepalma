@@ -86,6 +86,8 @@ $flex: false;
 // Older IE support
 // @import 'vendor/ie';
 
+// Menus
+@import 'modules/menu_block';
 
 body {
   background-color: $body-color-background;
