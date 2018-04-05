@@ -7,9 +7,53 @@
 
 // Headings
 //------------------------------------------
-// h1, h2, h3,
-// h4, h5, h6 {}
+h1, h2, h3,
+h4, h5, h6 {
+  text-transform: uppercase;
+  font-weight: 700;
+  position: relative;
+  margin-bottom: 60px;
+  line-height: 1em;
+  .block-title{
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+  strong{
+    color: $primary-color;
+  }
+  &:before{
+    top: 70px;
+    left: 47%;
+    width: 80px;
+    height: 1px;
+    background-color: $primary-color;
+    content: "";
+    position: absolute;
+  }
+  &.lateral{
+    margin-top: 80px;
+    &:before{
+      top: 70px;
+      left: 47%;
+      width: 80px;
+      height: 0px;
+      background-color: $primary-color;
+      content: "";
+      position: absolute;
+    }
+  }
+}
 
+p.destacado {
+  font-size: 1.2em;
+  padding: 0 80px;
+}
+.button{
+  text-transform: uppercase;
+  color: $primary-color;
+  background-color: transparent;
+  border: 3px solid $primary-color;
+}
 // Anchors
 //-----------------------------------------------------------------------------
 // a {}

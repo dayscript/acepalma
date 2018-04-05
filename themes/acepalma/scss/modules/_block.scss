@@ -5,11 +5,145 @@
   }
 }
 
-
 // types of services and products
 
 .region-highlighted {
   background: $body-color-background;
   border: 0;
   box-shadow: 0 0;
+}
+
+//Bloque certificaciones
+.container-firts {
+  background: $white;
+  padding: 45px 0;
+}
+
+//Bloque nosotros
+#block-acercadenosotos {
+  .medium-12 {
+    padding: 60px 0;
   }
+}
+
+//Productos home
+.productos {
+  .columns {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .container-service {
+    background: $secondary-color;
+    padding: 20px 14px;
+    text-transform: uppercase;
+    font-weight: 700;
+    a {
+      color: $white;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+    .icon {
+      position: relative;
+      margin-bottom: 16px;
+      &:before {
+        position: absolute;
+        top: 80px;
+        right: 45%;
+        content: "";
+        width: 16px;
+        height: 1px;
+        background: $white;
+      }
+    }
+  }
+  .views-row:nth-child(even) .container-service {
+    background: $primary-color;
+  }
+}
+
+//SLider home
+.slidebanner {
+  margin-bottom: 39px;
+}
+.container-slide {
+  position: relative;
+   .info {
+     position: absolute;
+     z-index: 3;
+     top: 33%;
+     bottom: 0;
+     left: 0;
+     right: 0;
+     margin: auto;
+     width: 60vw;
+     text-transform: uppercase;
+     font-size: 2.6vw;
+     text-align: center;
+     color: $white;
+     table tbody {
+       background-color: transparent;
+       border: 3px solid $white;
+       tr:nth-child(even) {
+         border-bottom: 0;
+         background-color: rgba(0, 0, 0, 0.2);
+         border-top: 3px solid $white;
+       }
+     }
+  }
+  .imagen {
+    position: relative;
+  }
+}
+
+//Noticias
+.container-white{
+  background: $white;
+  padding: 18px 12px 12px 12px;
+  height: 215px;
+  margin-bottom: 16px;
+  .title{
+    a{
+      font-size: 1em;
+      font-weight: 600;
+      position: relative;
+      margin-bottom: 30px;
+      &:after{
+        content: "";
+        top: 30px;
+        left: 0;
+        width: 24px;
+        height: 1px;
+        background: $primary-color;
+        position: absolute;
+      }
+    }
+  }
+  .autor{
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 0.9em;
+    margin-bottom: 8px;
+  }
+  .date{
+    color: $primary-color;
+    font-size: 2.6em;
+    text-align: center;
+    font-weight: 900;
+    strong {
+      display: block;
+      font-size: 0.4em;
+      margin-top: -10px;
+      text-transform: uppercase;
+      font-weight: 400;
+    }
+  }
+}
+
+//Seccion noticias
+
+.section-noticias{
+  .container-firts, .container-subcontent{
+    display: none;
+  }
+}

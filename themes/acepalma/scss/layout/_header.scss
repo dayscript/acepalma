@@ -1,1 +1,78 @@
-// Non-modular or client styles for .l-header region.
+img.logo {
+  margin: 16px 0px 9px 0px;
+}
+
+//Menu
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 0px;
+  border: 0px solid transparent;
+  float: right;
+}
+
+.we-mega-menu-ul > .we-mega-menu-li > a {
+  background-color: #F6F6F6 !important;
+  padding: 16px !important;
+  font-size: 1em;
+
+}
+
+.we-mega-menu-ul > .we-mega-menu-li {
+  border-left: 0px solid #E1E3E5 !important;
+  &.active > a {
+    position: relative;
+    &:after {
+      bottom: 0;
+      right: 0;
+      content: "";
+      height: 4px;
+      background-color: $secondary-color;
+      width: 100%;
+      position: absolute;
+      opacity: 1;
+    }
+  }
+}
+
+.we-mega-menu-submenu {
+  background-color: $secondary-color;
+  border: 0;
+  padding: 30px 16px 16px 16px;
+  a {
+    color: $white !important;
+    text-transform: uppercase;
+    padding-bottom: 1em!important;
+    &:hover{
+      color: $white !important;
+      text-transform: uppercase;
+      border-bottom-color:$white !important;
+    }
+  }
+}
+
+.we-mega-menu-ul .dropdown-menu > a:before, .we-mega-menu-ul .dropdown-menu > a:after {
+  content: '';
+  position: absolute;
+  right: 0.06rem;
+  top: 50%;
+  margin-top: -.3125rem;
+  width: .6875rem;
+  height: .6875rem;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.navbar-we-mega-menu {
+  background-color: transparent;
+}
+
+//Selector de idioma
+
+#block-idiomaselector {
+  margin-top: 22px;
+  padding-right: 12px;
+}

@@ -50,19 +50,19 @@ $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
-  primary: #1779ba,
-  secondary: #767676,
+  primary: #3b779b,
+  secondary: #dc911b,
   success: #3adb76,
   warning: #ffae00,
   alert: #cc4b37,
 );
-$light-gray: #e6e6e6;
+$light-gray: #f6f6f6;
 $medium-gray: #cacaca;
-$dark-gray: #8a8a8a;
+$dark-gray: #666666;
 $black: #0a0a0a;
-$white: #fefefe;
+$white: #ffffff;
 $body-background: $white;
-$body-font-color: $black;
+$body-font-color: $dark-gray;
 $body-font-family: 'Lato', sans-serif;
 // $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
 $body-antialiased: true;
@@ -241,7 +241,7 @@ $breadcrumbs-item-slash: true;
 // 11. Button
 // ----------
 
-$button-padding: 0.85em 1em;
+$button-padding: 0.85em 1.6em;
 $button-margin: 0 0 $global-margin 0;
 $button-fill: solid;
 $button-background: $primary-color;
@@ -252,7 +252,7 @@ $button-radius: $global-radius;
 $button-sizes: (
   tiny: 0.6rem,
   small: 0.75rem,
-  default: 0.9rem,
+  default: 0.8rem,
   large: 1.25rem,
 );
 $button-palette: $foundation-palette;
@@ -624,6 +624,3 @@ $topbar-unstack-breakpoint: medium;
 
 // custom variables
 $body-color-background: #f6f6f6;
-$footer-color-background: #38769d;
-$aceplama-blue: #38769d;
-$color-title: #5c5c5c;
