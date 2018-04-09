@@ -1,1 +1,32 @@
-// Non-modular or client styles for .l-footer region.
+.bottom-bar {
+  background-color: #2d6386 !important;
+  padding: 14px 0;
+  font-size: 0.9em;
+}
+.container-footer {
+  background-color: $primary-color !important;
+  padding: 24px 0;
+}
+
+.menu-footer{
+  .menu {
+    li {
+      display: block;
+      a {
+        color: $white;
+        text-transform: uppercase;
+        font-size: 0.8em;
+        padding: 0.5rem 0rem;
+      }
+    }
+  }
+  .menu>li {
+    display: block;
+  }
+}
+.rights-reserved {
+  color: $white;
+}
+#block-logoblanco, #block-logosdealiados{
+  margin-top: 40px;
+}
