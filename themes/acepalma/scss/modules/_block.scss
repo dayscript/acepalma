@@ -13,12 +13,6 @@
   box-shadow: 0 0;
 }
 
-//Bloque certificaciones
-.container-firts {
-  background: $white;
-  padding: 45px 0;
-}
-
 //Bloque nosotros
 #block-acercadenosotos {
   .medium-12 {
@@ -35,17 +29,19 @@
   .container-service {
     background: $secondary-color;
     padding: 20px 14px;
-    text-transform: uppercase;
-    font-weight: 700;
-    a {
+    position: relative;
+
+    .title {
+      z-index: 6;
       color: $white;
-      &:hover {
-        text-decoration: none;
-      }
+      text-transform: uppercase;
+      font-weight: 700;
     }
     .icon {
       position: relative;
       margin-bottom: 16px;
+      z-index: 6;
+      bottom: 0px;
       &:before {
         position: absolute;
         top: 80px;
@@ -56,6 +52,72 @@
         background: $white;
       }
     }
+    .enlace{
+      top: -300px;
+      left: 123px;
+      z-index: 6;
+      position: absolute;
+      opacity: 0;
+      a{
+        font-size: 5em;
+        color: $white;
+        &:hover{
+          text-decoration: none;
+        }
+      }
+    }
+    &:after {
+      position: absolute;
+      background: $primary-color;
+      width: 100%;
+      height: 0px;
+      content: "";
+      bottom: 0;
+      left: 0;
+      z-index: 1;
+    }
+    &:hover {
+      &:after {
+        position: absolute;
+        background: $primary-color;
+        width: 100%;
+        height: 414px;
+        content: "";
+        bottom: 0;
+        left: 0;
+        transition: all .6s ease;
+        z-index: 1;
+      }
+      .icon {
+        position: relative;
+        margin-bottom: 16px;
+        z-index: 6;
+        bottom: 160px;
+        transition: all .3s ease;
+        &:before {
+          position: absolute;
+          top: 80px;
+          right: 45%;
+          content: "";
+          width: 16px;
+          height: 1px;
+          background: $white;
+        }
+      }
+      .enlace{
+        top: 10px;
+        left: 123px;
+        z-index: 6;
+        position: absolute;
+        transition: all .3s ease;
+        opacity: 1;
+        a{
+          font-size: 5em;
+          color: $white;
+        }
+      }
+    }
+
   }
   .views-row:nth-child(even) .container-service {
     background: $primary-color;
@@ -66,51 +128,52 @@
 .slidebanner {
   margin-bottom: 39px;
 }
+
 .container-slide {
   position: relative;
-   .info {
-     position: absolute;
-     z-index: 3;
-     top: 33%;
-     bottom: 0;
-     left: 0;
-     right: 0;
-     margin: auto;
-     width: 60vw;
-     text-transform: uppercase;
-     font-size: 2.6vw;
-     text-align: center;
-     color: $white;
-     table tbody {
-       background-color: transparent;
-       border: 3px solid $white;
-       tr:nth-child(even) {
-         border-bottom: 0;
-         background-color: rgba(0, 0, 0, 0.2);
-         border-top: 3px solid $white;
-       }
-     }
+  .info {
+    position: absolute;
+    z-index: 3;
+    top: 33%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 60vw;
+    text-transform: uppercase;
+    font-size: 2.6vw;
+    text-align: center;
+    color: $white;
+    table tbody {
+      background-color: transparent;
+      border: 3px solid $white;
+      tr:nth-child(even) {
+        border-bottom: 0;
+        background-color: rgba(0, 0, 0, 0.2);
+        border-top: 3px solid $white;
+      }
+    }
   }
   .imagen {
     position: relative;
   }
 }
 
-//Noticias
-.container-white{
+//Noticias listados
+.container-white {
   background: $white;
   padding: 18px 12px 12px 12px;
-  height: 215px;
+  height: 280px;
   margin-bottom: 16px;
-  .title{
-    a{
+  .title {
+    a {
       font-size: 1em;
       font-weight: 600;
       position: relative;
       margin-bottom: 30px;
-      &:after{
+      &:after {
         content: "";
-        top: 30px;
+        bottom: -14px;
         left: 0;
         width: 24px;
         height: 1px;
@@ -119,13 +182,13 @@
       }
     }
   }
-  .autor{
+  .autor {
     margin-top: 20px;
     font-style: italic;
     font-size: 0.9em;
     margin-bottom: 8px;
   }
-  .date{
+  .date {
     color: $primary-color;
     font-size: 2.6em;
     text-align: center;
@@ -142,8 +205,245 @@
 
 //Seccion noticias
 
-.section-noticias{
-  .container-firts, .container-subcontent{
+.section-noticias, .section-sostenibilidad, .section-productos-y-servicios, .section-noticia {
+  .container-firts, .container-subcontent, .container-new {
     display: none;
+  }
+}
+
+.section-noticia {
+  #block-acepalma-content {
+    img {
+      margin-bottom: 20px;
+    }
+    .field-name-node-changed-date {
+      margin-bottom: 24px;
+      color: $primary-color;
+      position: relative;
+      &:after {
+        content: "";
+        width: 32px;
+        height: 1px;
+        background: $primary-color;
+        left: 0;
+        top: 30px;
+        position: absolute;
+      }
+    }
+    .field-name-body {
+      margin-bottom: 50px;
+    }
+  }
+}
+
+//Seccion nosotros
+.about, .section-sostenibilidad {
+  h1, h2, h3,
+  h4, h5, h6 {
+    &:before {
+      left: 0 !important;
+    }
+  }
+}
+
+.block-bloquedenodomegaacepalma, .block-bloquedenodopropuestadevalor {
+  h2, p {
+    color: $white !important;
+    &:before {
+      background-color: $white;
+    }
+  }
+  p {
+    font-size: 1.4em;
+    padding: 0 15%;
+  }
+}
+
+.block-bloquedenodovalores {
+  margin-bottom: 20px;
+  h2 {
+    margin-bottom: 100px;
+  }
+  h5 {
+    margin-bottom: 10px;
+    &:before {
+      display: none;
+    }
+  }
+}
+
+//Seccion productos
+a.feed-icon {
+  display: none;
+}
+
+#block-productosyservicios-2 {
+  .navbar-we-mega-menu {
+    background: $primary-color;
+  }
+  .we-mega-menu-ul > .we-mega-menu-li > a {
+    background-color: $primary-color !important;
+    border-bottom: 1px solid #6DA6CB;
+    color: $white;
+    padding: 36px 16px !important;
+  }
+  .we-mega-menu-ul > .we-mega-menu-li {
+    &.active > a {
+      position: relative;
+      background-color: #31678A !important;
+      &:after {
+        display: none;
+      }
+    }
+  }
+}
+
+.section-productos-y-servicios {
+  .title {
+    color: $primary-color;
+    font-weight: 600;
+    font-size: 1.4em;
+    position: relative;
+    margin-bottom: 24px;
+    &:after {
+      position: absolute;
+      content: "";
+      background: $primary-color;
+      width: 20px;
+      height: 1px;
+      left: 0;
+      bottom: -14px;
+    }
+  }
+  .container-white {
+    height: 390px;
+  }
+}
+
+//Contacto
+
+h2.location-title {
+  font-size: 1em;
+  margin-bottom: 0;
+  &:before {
+    display: none;
+  }
+}
+
+.ubicacion {
+  display: block;
+  height: 101px;
+  border-bottom: 1px solid $medium-gray;
+  margin-bottom: 16px;
+  text-align: left;
+  .title {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    margin-bottom: 8px;
+  }
+}
+
+.section-contacto {
+  .main-content {
+    display: none;
+  }
+  #block-titulodelapagina {
+    margin-bottom: 0px;
+  }
+  .container-firts {
+    margin-top: 0px;
+  }
+}
+
+.contacto {
+  h2 {
+    color: $white;
+    font-size: 2.2em;
+    line-height: 38px;
+    &:before {
+      left: 0;
+      background: $secondary-color;
+    }
+  }
+  label {
+    color: $white;
+  }
+  input, select {
+    color: $dark-gray;
+  }
+  .webform-submission-contact-form {
+    .columns {
+      padding-left: 0;
+    }
+  }
+}
+
+//Bloque selector de asuntos de contacto
+
+#block-asuntosdecontacto {
+  a.asunto {
+    height: 80px;
+    border: 1px solid #466585;
+    display: block;
+    position: relative;
+    margin-bottom: 6px;
+    &:after {
+      position: absolute;
+      background: $secondary-color;
+      height: 80px;
+      content: "";
+      width: 100%;
+      opacity: 0;
+    }
+    &:hover {
+      &:after {
+        position: absolute;
+        background: $secondary-color;
+        height: 80px;
+        content: "";
+        width: 100%;
+        opacity: 0.6;
+        transition: all 0.8s ease;
+      }
+    }
+    &.active {
+      &:after {
+        position: absolute;
+        background: $secondary-color;
+        height: 80px;
+        content: "";
+        width: 100%;
+        opacity: 0.4;
+      }
+    }
+
+    strong {
+      color: $white;
+      margin-top: 24px;
+      position: absolute;
+      right: 40px;
+      text-transform: uppercase;
+      font-size: 1.2em;
+      z-index: 5;
+    }
+    &.clientes {
+      background-image: url("../images/clientes.jpg");
+    }
+    &.proveedores {
+      background-image: url("../images/proveedores.jpg");
+    }
+    &.pqrs {
+      background-image: url("../images/pqrs.jpg");
+    }
+    &.practicantes {
+      background-image: url("../images/practicantes.jpg");
+    }
+    &.etica {
+      background-image: url("../images/etica.jpg");
+    }
+    &.trabajar {
+      background-image: url("../images/trabajar.jpg");
+    }
   }
 }

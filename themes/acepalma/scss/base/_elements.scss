@@ -22,7 +22,7 @@ h4, h5, h6 {
     color: $primary-color;
   }
   &:before{
-    top: 70px;
+    bottom: -14px;
     left: 47%;
     width: 80px;
     height: 1px;
@@ -43,6 +43,19 @@ h4, h5, h6 {
     }
   }
 }
+.block-views-block-page-noticias-block-1{
+  h5{
+    &:before{
+      top: 40px;
+      left: 0%;
+      width: 40px;
+      height: 1px;
+      background-color: $primary-color;
+      content: "";
+      position: absolute;
+    }
+  }
+}
 
 p.destacado {
   font-size: 1.2em;
@@ -54,6 +67,19 @@ p.destacado {
   background-color: transparent;
   border: 3px solid $primary-color;
 }
+.button.success{
+  text-transform: uppercase;
+  color: $white;
+  background-color: transparent;
+  border: 3px solid $white;
+}
+hr{
+  &.light{
+    border: 0px;
+  }
+}
+
+
 // Anchors
 //-----------------------------------------------------------------------------
 // a {}

@@ -1,7 +1,48 @@
 body {
   background-color: $body-color-background;
 }
-.container-subcontent{
+
+.container-subcontent {
   padding: 45px 0;
+}
+
+.container-firts {
+  background: $primary-color;
+  padding: 45px 0;
+  margin-top: 20px;
+}
+.section-acerca-de-nosotros{
+  .container-firts{
+    background-image: url("../images/equipo.jpg");
+  }
+  .container-new {
+    background-image: url("../images/mega.jpg");
+  }
+}
+
+.container-new {
+  background: $secondary-color;
+  padding: 45px 0;
+}
+
+.path-frontpage{
+  .container-new {
+    display: none;
+  }
+  .container-firts {
+    background: $white;
+  }
+}
+.container-mapcontent{
+  margin: 0;
+  padding: 0;
+}
+.section-contacto{
+  .container-subcontent {
+    padding: 85px 0;
+  }
+  .container-new {
+    display: none;
+  }
 }
 

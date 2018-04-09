@@ -23,8 +23,11 @@ regions:
   highlighted: Highlighted
   content: Content
   subcontent: Sub Content
+  mapcontent: Map Content
   sidebar_first: 'Left Sidebar'
+  sidebar_new: 'New Sidebar'
   sidebar_second: 'Right Sidebar'
+  sidebar_third: 'Third Sidebar'
   footer_first: 'Footer first column'
   footer_middle: 'Footer middle column'
   footer_last: 'Footer last column'

@@ -167,20 +167,48 @@
                 </div>
             </div>
             <div class="row">
-                {% if page.sidebar_second %}
-                    <div id="sidebar-second" class="{{ sidebar_sec_grid }} columns sidebar">
+
+
+                {% if not (page.sidebar_third) and (page.sidebar_second) %}
+                    <div id="sidebar-second" class="medium-4 columns sidebar">
                         {{ page.sidebar_second }}
                     </div>
+                    <section class="main-content medium-8 columns">
+                        {{ page.content }}
+                    </section>
                 {% endif %}
-                <section class="main-content large-12 columns">
-                    {{ page.content }}
-                </section>
+
+                {% if not (page.sidebar_second) and (page.sidebar_third) %}
+                    <section class="main-content medium-8 columns">
+                        {{ page.content }}
+                    </section>
+                    <div id="sidebar-second" class="medium-4 columns sidebar">
+                        {{ page.sidebar_third }}
+                    </div>
+
+                {% endif %}
+
+                {% if not (page.sidebar_second) and not (page.sidebar_third) %}
+                    <section class="main-content medium-12 columns">
+                        {{ page.content }}
+                    </section>
+                {% endif %}
+
             </div>
             <div class="container-firts">
                 <div class="row">
                     {% if page.sidebar_first %}
                         <div id="sidebar-first" class="columns sidebar"> <!--class="{{ sidebar_first_grid }}-->
                             {{ page.sidebar_first }}
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="container-new">
+                <div class="row">
+                    {% if page.sidebar_new %}
+                        <div id="sidebar-new" class="columns sidebar"> <!--class="{{ sidebar_first_grid }}-->
+                            {{ page.sidebar_new }}
                         </div>
                     {% endif %}
                 </div>
@@ -192,6 +220,14 @@
                     </section>
                 </div>
             </div>
+            <div class="container-mapcontent">
+                <div class="">
+                    <section class="">
+                        {{ page.mapcontent }}
+                    </section>
+                </div>
+            </div>
+
             {% if page.footer_first or page.footer_middle or page.footer_last %}
                 <div class="container-footer">
                     <footer class="row">
@@ -223,3 +259,4 @@
         </div>
     </div>
 </div>
+
