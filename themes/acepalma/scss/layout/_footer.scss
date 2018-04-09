@@ -9,8 +9,6 @@
 }
 
 .menu-footer{
-  .menu {
-    li {
       display: block;
       a {
         color: $white;
@@ -18,11 +16,6 @@
         font-size: 0.8em;
         padding: 0.5rem 0rem;
       }
-    }
-  }
-  .menu>li {
-    display: block;
-  }
 }
 .rights-reserved {
   color: $white;
