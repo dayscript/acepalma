@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4ddfa1a-9854-48d8-b249-0edffc9c9ce4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/bg/about.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/bg/contacto.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/bg/noticias.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/bg/productos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/bg/sostenibilidad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/clientes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/equipo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/etica.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/mega.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/pqrs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/practicantes.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/proveedores.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/images/trabajar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/acepalma/npm-debug.log" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/AS233.JPG" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/acepalma.info.yml" afterPath="$PROJECT_DIR$/themes/acepalma/acepalma.info.yml" />
