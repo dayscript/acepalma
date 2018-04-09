@@ -5,552 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4ddfa1a-9854-48d8-b249-0edffc9c9ce4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/assets/images/flexslider-sample-1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/assets/images/flexslider-sample-2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/assets/images/flexslider-sample-3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/assets/images/flexslider-sample-4.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/tests/fixtures/update/drupal-8.flexslider.pre8001.php.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-medium/eot/1110FC_0.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-medium/woff/1110FC_0.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-regular/eot/11014B_0.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-regular/woff/11014B_0.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-semibold/eot/style_169898.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-semibold/woff/style_169898.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/images/kitchen_adventurer_caramel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/images/kitchen_adventurer_cheesecake_brownie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/images/kitchen_adventurer_donut.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/images/kitchen_adventurer_lemon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/fonts/flexslider-icon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/fonts/flexslider-icon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/images/bg_play_pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/default/AS233.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/acepalma/block_title/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/acepalma/block_title/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/acepalma/block_title/block_title.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/acepalma/block_title/block_title.links.menu.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/acepalma/block_title/block_title.routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/acepalma/block_title/src/Controller/HelloController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/acepalma/block_title/src/Plugin/Block/TitleBlock.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/assets/css/flexslider_img.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/assets/js/flexslider.load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/config/install/flexslider.optionset.default.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/config/install/flexslider.settings.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/config/install/image.style.flexslider_full.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/config/install/image.style.flexslider_thumbnail.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/config/schema/flexslider.schema.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.api.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.install" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.libraries.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.links.action.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.links.menu.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.links.task.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.make.example" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.permissions.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider.routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/core.entity_form_display.node.flexslider_example.default.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/core.entity_view_display.node.flexslider_example.default.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/field.field.node.flexslider_example.field_flexslider_example_image.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/field.field.node.flexslider_example.field_flexslider_example_slidesh.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/field.storage.node.field_flexslider_example_image.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/field.storage.node.field_flexslider_example_slidesh.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/flexslider.optionset.flexslider_carousel_with_min_and_max_ranges.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/flexslider.optionset.flexslider_default_basic_carousel.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/flexslider.optionset.flexslider_default_slider_thumbnail_controlnav.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/flexslider.optionset.flexslider_default_slider_w_thumbnail_slider.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/flexslider.optionset.flexslider_default_thumbnail_captions.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/flexslider.optionset.flexslider_default_thumbnail_slider.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/node.type.flexslider_example.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/system.menu.flexslider-example.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/config/install/views.view.flexslider_views_example.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/flexslider_example.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/flexslider_example.install" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_example/flexslider_example.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_fields/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_fields/flexslider_fields.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_fields/flexslider_fields.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_fields/src/Plugin/Field/FieldFormatter/FlexsliderFormatter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_fields/src/Plugin/Field/FieldFormatter/FlexsliderFormatterTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_fields/src/Plugin/Field/FieldFormatter/FlexsliderResponsiveFormatter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_views/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_views/flexslider_views.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_views/flexslider_views.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_views/src/Plugin/views/style/FlexSlider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_views/templates/flexslider-views-style.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/flexslider_views/templates/flexslider_views.theme.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/src/Controller/FlexsliderListBuilder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/src/Controller/FlexsliderOptionsetController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/src/Entity/Flexslider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/src/FlexsliderDefaults.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/src/FlexsliderInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/src/Form/FlexsliderDeleteForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/src/Form/FlexsliderForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/src/Form/FlexsliderFormSettings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/src/Tests/FlexsliderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/src/Tests/Update/FlexsliderSettingsUpdateTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/templates/flexslider-list-item.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/templates/flexslider-list.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/templates/flexslider.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/templates/flexslider.theme.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/tests/modules/flexslider_library_test/flexslider_library_test.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/tests/modules/flexslider_library_test/flexslider_library_test.install" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/flexslider/tests/modules/flexslider_library_test/flexslider_library_test.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/CHANGELOG.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/config/install/libraries.settings.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/config/schema/libraries.schema.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/libraries.api.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/libraries.drush.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/libraries.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/libraries.install" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/libraries.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/libraries.services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Annotation/LibraryType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Annotation/Locator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Annotation/VersionDetector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Config/LibrariesConfigSubscriber.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Asset/AssetLibrary.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Asset/AssetLibraryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Asset/AttachableAssetLibraryRegistrationInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Asset/LocalRemoteAssetTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Asset/MultipleAssetLibrary.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Asset/MultipleAssetLibraryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Definition/ChainDefinitionDiscovery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Definition/DefinitionDiscoveryFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Definition/DefinitionDiscoveryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Definition/FileDefinitionDiscovery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Definition/FileDefinitionDiscoveryBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Definition/GuzzleDefinitionDiscovery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Definition/WritableDefinitionDiscoveryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Definition/WritableFileDefinitionDiscovery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Dependency/DependentLibraryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Dependency/DependentLibraryTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Exception/InvalidLibraryDependencyException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Exception/LibraryDefinitionNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Exception/LibraryNotInstalledException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Exception/LibraryTypeNotFoundException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Exception/UnknownLibraryVersionException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/LibraryBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/LibraryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/LibraryManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/LibraryManagerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Local/LocalLibraryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Local/LocalLibraryTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Local/LocatorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Local/LocatorManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/PhpFile/PhpFileLibrary.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/PhpFile/PhpFileLibraryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/PhpFile/PhpFileLoaderInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/PhpFile/PhpRequireLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Remote/RemoteLibraryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Remote/RemoteLibraryTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Type/LibraryCreationListenerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Type/LibraryLoadingListenerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Type/LibraryTypeBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Type/LibraryTypeFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Type/LibraryTypeInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Utility/DependencyAccessorTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Utility/IdAccessorTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Utility/LibraryAccessorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Utility/LibraryAccessorTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Utility/LibraryIdAccessorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Utility/LibraryIdAccessorTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Version/VersionDetectorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Version/VersionDetectorManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Version/VersionedLibraryInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/ExternalLibrary/Version/VersionedLibraryTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Plugin/MissingPluginConfigurationException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Plugin/libraries/Locator/ChainLocator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Plugin/libraries/Locator/GlobalLocator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Plugin/libraries/Locator/UriLocator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Plugin/libraries/Type/AssetLibraryType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Plugin/libraries/Type/MultipleAssetLibraryType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Plugin/libraries/Type/PhpFileLibraryType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Plugin/libraries/VersionDetector/LinePatternDetector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Plugin/libraries/VersionDetector/StaticDetector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/StreamWrapper/AssetLibrariesStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/StreamWrapper/LibraryDefinitionsStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/StreamWrapper/LocalHiddenStreamTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/StreamWrapper/PhpFileLibrariesStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/StreamWrapper/PrivateStreamTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Tests/LibrariesUnitTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/src/Tests/LibrariesWebTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/assets/vendor/test_asset_library/example.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/assets/vendor/test_asset_library/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/assets/vendor/test_asset_multiple_library/example.first.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/assets/vendor/test_asset_multiple_library/example.first.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/assets/vendor/test_asset_multiple_library/example.second.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/assets/vendor/test_asset_multiple_library/example.second.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/example/example_info_file.libraries.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/libraries/test_php_file_library/test_php_file_library.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/library_definitions/test_asset_library.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/library_definitions/test_asset_multiple_library.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/library_definitions/test_php_file_library.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/modules/libraries_test/libraries_test.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/modules/libraries_test/libraries_test.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/modules/libraries_test/libraries_test.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/modules/libraries_test/libraries_test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/modules/libraries_test/libraries_test.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/modules/libraries_test/libraries_test.routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/modules/libraries_test/src/Controller/ExampleController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/src/Functional/ExternalLibrary/Definition/DefinitionDiscoveryFactoryTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/src/Kernel/ExternalLibrary/Asset/AssetLibraryTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/src/Kernel/ExternalLibrary/Asset/AssetLibraryTestBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/src/Kernel/ExternalLibrary/Asset/MultipleAssetLibraryTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/src/Kernel/ExternalLibrary/GlobalLocatorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/src/Kernel/ExternalLibrary/PhpFile/PhpFileLibraryTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/src/Kernel/ExternalLibrary/TestLibraryFilesStream.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/src/Kernel/LibraryTypeKernelTestBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/libraries/tests/src/Unit/Plugin/libraries/VersionDetector/LinePatternDetectorTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/config/schema/views.style.slideshow.schema.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/config/schema/views_slideshow.data_types.schema.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/css/controls_text.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/css/views-slideshow-pager-bullets.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/css/views_slideshow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/js/views_slideshow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/css/views_slideshow_cycle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/drush.services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/js/formoptions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/js/views_slideshow_cycle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/src/Commands/ViewsSlideshowCycleCommands.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/src/Plugin/ViewsSlideshowType/Cycle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/templates/views-slideshow-cycle-main-frame-row-item.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/templates/views-slideshow-cycle-main-frame-row.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/templates/views-slideshow-cycle-main-frame.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/templates/views-slideshow-cycle.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/views_slideshow_cycle.drush.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/views_slideshow_cycle.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/views_slideshow_cycle.libraries.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/views_slideshow_cycle.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/modules/views_slideshow_cycle/views_slideshow_cycle.theme.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Annotation/ViewsSlideshowSkin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Annotation/ViewsSlideshowType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Annotation/ViewsSlideshowWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Annotation/ViewsSlideshowWidgetType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/FormatAddonsName.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/FormatAddonsNameInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Plugin/ViewsSlideshowSkin/DefaultSkin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Plugin/ViewsSlideshowWidget/ControlsText.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Plugin/ViewsSlideshowWidget/PagerBullets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Plugin/ViewsSlideshowWidget/PagerFields.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Plugin/ViewsSlideshowWidgetType/Controls.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Plugin/ViewsSlideshowWidgetType/Counter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Plugin/ViewsSlideshowWidgetType/Pager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Plugin/views/style/Slideshow.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/Tests/Plugin/StyleSlideshowTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowSkinBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowSkinInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowSkinPluginManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowTypeBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowTypeInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowTypePluginManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowWidgetBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowWidgetInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowWidgetPluginManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowWidgetTypeBase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowWidgetTypeInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/src/ViewsSlideshowWidgetTypePluginManager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-slideshow-controls-text-next.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-slideshow-controls-text-pause.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-slideshow-controls-text-previous.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-slideshow-controls-text.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-slideshow-main-section.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-slideshow-pager-bullets.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-slideshow-pager-field-field.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-slideshow-pager-field-item.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-slideshow-pager-fields.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-slideshow-slide-counter.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/templates/views-view-slideshow.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/tests/modules/views_slideshow_test/test_views/views.view.test_style_slideshow.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/tests/modules/views_slideshow_test/views_slideshow_test.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/views_slideshow.developer-documentation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/views_slideshow.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/views_slideshow.libraries.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/views_slideshow.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/views_slideshow.services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/views_slideshow/views_slideshow.theme.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/ajax/parseJSON.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css/defaultDisplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css/var/isHidden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/data/accepts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/data/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/effects/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/intro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/outro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/deletedIds.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/rnotwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/strundefined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/bower_components/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/css/base.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/css/font.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/css/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/css/resets.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/css/responsive.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/css/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/css/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/asnavfor-rtl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/basic-carousel-rtl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/basic-carousel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/basic-slider-with-caption.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/basic-slider-with-custom-direction-nav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/carousel-min-max.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/css/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/css/flexslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/dynamic-carousel-min-max.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-medium/svg/1110FC_0.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-medium/svg/svg_test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-medium/ttf/1110FC_0.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-regular/svg/11014B_0.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-regular/svg/svg_test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-regular/ttf/11014B_0.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-semibold/svg/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-semibold/svg/style_169898.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/fonts/webfonts/geo-semibold/ttf/style_169898.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/index-rtl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/froogaloop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/jquery.easing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/jquery.fitvid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/jquery.flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/jquery.mousewheel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/shBrushCss.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/shBrushJScript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/shBrushXml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/js/shCore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/thumbnail-controlnav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/thumbnail-slider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/video-wistia.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/demo/video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/flexslider-rtl-min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/flexslider-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/flexslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/flexslider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/fonts/flexslider-icon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/fonts/flexslider-icon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/jquery.flexslider-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/jquery.flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/ajax/parseJSON.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css/defaultDisplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css/var/isHidden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/data/accepts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/data/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/effects/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/intro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/outro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/test/data/empty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/test/data/mixed_sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/test/data/testinit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/test/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/test/unit/extending.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/test/unit/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/sizzle/test/unit/utilities.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/deletedIds.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/rnotwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/strundefined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/node_modules/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/css/acepalma.css" afterPath="$PROJECT_DIR$/themes/acepalma/css/acepalma.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/css/acepalma.css.map" afterPath="$PROJECT_DIR$/themes/acepalma/css/acepalma.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/scss/acepalma.scss" afterPath="$PROJECT_DIR$/themes/acepalma/scss/acepalma.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/scss/base/_elements.scss" afterPath="$PROJECT_DIR$/themes/acepalma/scss/base/_elements.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/scss/layout/_footer.scss" afterPath="$PROJECT_DIR$/themes/acepalma/scss/layout/_footer.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/scss/layout/_header.scss" afterPath="$PROJECT_DIR$/themes/acepalma/scss/layout/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/scss/layout/_main.scss" afterPath="$PROJECT_DIR$/themes/acepalma/scss/layout/_main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/scss/modules/_block.scss" afterPath="$PROJECT_DIR$/themes/acepalma/scss/modules/_block.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/templates/page.html.twig" afterPath="$PROJECT_DIR$/themes/acepalma/templates/page.html.twig" />
     </list>
     <ignored path="acepalma.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -572,11 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_settings.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/acepalma/scss/_settings.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.021037867">
+            <state vertical-scroll-proportion="-0.625">
               <caret line="52" column="18" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/acepalma/templates/page.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9088359">
+              <caret line="257" column="99" selection-start-line="257" selection-start-column="99" selection-end-line="257" selection-end-column="99" />
               <folding />
             </state>
           </provider>
@@ -596,11 +61,11 @@
         <option value="$PROJECT_DIR$/themes/acepalma/acepalma.info.yml" />
         <option value="$PROJECT_DIR$/themes/acepalma/scss/base/_elements.scss" />
         <option value="$PROJECT_DIR$/themes/acepalma/scss/_settings.scss" />
-        <option value="$PROJECT_DIR$/themes/acepalma/templates/page.html.twig" />
         <option value="$PROJECT_DIR$/themes/acepalma/scss/layout/_main.scss" />
         <option value="$PROJECT_DIR$/themes/acepalma/scss/layout/_footer.scss" />
         <option value="$PROJECT_DIR$/themes/acepalma/scss/layout/_header.scss" />
         <option value="$PROJECT_DIR$/themes/acepalma/scss/modules/_block.scss" />
+        <option value="$PROJECT_DIR$/themes/acepalma/templates/page.html.twig" />
       </list>
     </option>
   </component>
@@ -936,6 +401,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/Clientes/Win" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.9.4/bin/node" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -982,7 +448,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1014" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24635416" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -991,7 +457,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18941799" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18941799" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1167,6 +633,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1207,6 +674,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1214,6 +682,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9981884">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1237,14 +706,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40938863">
           <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/acepalma/templates/page.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89910316">
-          <caret line="261" column="0" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1283,8 +744,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/acepalma/scss/_settings.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.021037867">
+        <state vertical-scroll-proportion="-0.625">
           <caret line="52" column="18" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/acepalma/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9088359">
+          <caret line="257" column="99" selection-start-line="257" selection-start-column="99" selection-end-line="257" selection-end-column="99" />
           <folding />
         </state>
       </provider>
