@@ -1,0 +1,7 @@
+block_title.content:
+  path: '/block-title'
+  defaults:
+    _controller: '\Drupal\block_title\Controller\HelloController::content'
+    _title: 'Block Title'
+  requirements:
+    _permission: 'access content'

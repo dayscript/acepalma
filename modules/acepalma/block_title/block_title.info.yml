@@ -1,0 +1,6 @@
+name: Title In Block Module
+description: Crea un bloque para visualizar el título de una sección
+package: acepalma
+type: module
+version: 1.0
+core: 8.x
