@@ -100,3 +100,8 @@ $flex: false;
 .container-content {
   background-color: $white;
 }
+
+
+.sostenibilidad .views-row:nth-child(odd) > div > div:nth-child(1) {
+    float: right;
+}
