@@ -82,7 +82,10 @@ hr{
 
 p.destacado {
   font-size: 1.2em;
-  padding: 0 80px;
+  padding: 0 10px;
+  @include breakpoint(medium){
+    padding: 0 80px;
+  }
 }
 .button{
   text-transform: uppercase;

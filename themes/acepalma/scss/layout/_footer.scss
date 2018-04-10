@@ -1,25 +1,41 @@
 .bottom-bar {
-  background-color: #2d6386 !important;
+  background-color: #2D6386 !important;
   padding: 14px 0;
   font-size: 0.9em;
 }
+
 .container-footer {
   background-color: $primary-color !important;
   padding: 24px 0;
 }
 
-.menu-footer{
-      display: block;
-      a {
-        color: $white;
-        text-transform: uppercase;
-        font-size: 0.8em;
-        padding: 0.5rem 0rem;
-      }
+.menu-footer {
+  display: block;
+  text-align: center;
+  margin-top: 16px;
+  a {
+    color: $white;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    padding: 0.5rem 0rem;
+  }
+  @include breakpoint(medium){
+    text-align: inherit;
+    margin-top: 0;
+  }
 }
+
 .rights-reserved {
   color: $white;
 }
-#block-logoblanco, #block-logosdealiados{
+
+#block-logoblanco, #block-logosdealiados {
   margin-top: 40px;
+  text-align: center;
+  @include breakpoint(medium) {
+    text-align: inherit;
+  }
 }
+
+
+

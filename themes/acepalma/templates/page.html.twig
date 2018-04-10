@@ -82,7 +82,7 @@
             <div class="container-header">
                 <header class="row" role="banner" aria-label="{{ 'Site header'|t }}">
                     {% if linked_site_name or linked_logo %}
-                        <div class="large-3 columns">
+                        <div class="small-9 medium-3 columns">
                             {% if linked_logo %}
                                 {{ linked_logo }}
                             {% endif %}
@@ -90,7 +90,7 @@
 
                     {% endif %}
                     {% if page.header %}
-                        <div class="large-9 columns">
+                        <div class="small-3 medium-9 columns">
                             {{ page.header }}
                         </div>
                     {% endif %}
@@ -251,10 +251,10 @@
             {% endif %}
             <div class="bottom-bar">
                 <div class="row">
-                    <div class="large-11 columns text-center rights-reserved">
+                    <div class="small-11 columns text-center rights-reserved">
                         &copy; {{ "now"|date('Y') }} {{ site_name }} {{ 'All rights reserved.'|t }}
                     </div>
-                    <div class="large-1 columns text-right">
+                    <div class="small-1 columns text-right">
                         <a href="http://www.dayscript.com" target="_blank"><img src="sites/default/files/by-day.png" alt="By Dayscript"></a>
                     </div>
                 </div>

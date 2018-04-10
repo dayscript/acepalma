@@ -17,6 +17,7 @@
 #block-acercadenosotos {
   .medium-12 {
     padding: 60px 0;
+
   }
 }
 
@@ -30,6 +31,10 @@
     background: $secondary-color;
     padding: 20px 14px;
     position: relative;
+    margin-bottom: 20px;
+    @include breakpoint(medium){
+      margin-bottom: 0;
+    }
 
     .title {
       z-index: 6;
@@ -121,6 +126,19 @@
   }
   .views-row:nth-child(even) .container-service {
     background: $primary-color;
+  }
+  .img{
+    img {
+      width: 100%;
+    }
+  }
+}
+//Bloque certificaciones
+
+#block-certificaciones{
+  text-align: center;
+  @include breakpoint(medium){
+    text-align: inherit;
   }
 }
 
