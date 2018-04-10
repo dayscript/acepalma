@@ -265,9 +265,15 @@
     margin-bottom: 100px;
   }
   h5 {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     &:before {
-      display: none;
+      content: "";
+      width: 14px;
+      height: 2px;
+      background: $secondary-color;
+      left: 48%;
+      top: 30px;
+      position: absolute;
     }
   }
 }
