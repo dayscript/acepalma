@@ -38,10 +38,16 @@ body {
   padding: 0;
 }
 .section-contacto{
-  .container-subcontent {
+  .container-new {
     padding: 85px 0;
   }
-  .container-new {
+  .container-subcontent{
+    display: none;
+  }
+}
+
+.section-politicas-de-privacidad{
+  .container-firts, .container-new, .container-subcontent {
     display: none;
   }
 }

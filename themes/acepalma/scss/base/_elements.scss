@@ -12,8 +12,11 @@ h4, h5, h6 {
   text-transform: uppercase;
   font-weight: 700;
   position: relative;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   line-height: 1em;
+  @include breakpoint(medium){
+    margin-bottom: 60px;
+  }
   .block-title{
     text-transform: uppercase;
     font-weight: 700;
@@ -23,12 +26,15 @@ h4, h5, h6 {
   }
   &:before{
     bottom: -14px;
-    left: 47%;
+    left: 40%;
     width: 80px;
     height: 1px;
     background-color: $primary-color;
     content: "";
     position: absolute;
+    @include breakpoint(medium){
+      left: 47%;
+    }
   }
   &.lateral{
     margin-top: 80px;

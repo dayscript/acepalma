@@ -157,7 +157,7 @@
     left: 0;
     right: 0;
     margin: auto;
-    width: 60vw;
+    width: 83vw;
     text-transform: uppercase;
     font-size: 2.6vw;
     text-align: center;
@@ -170,6 +170,9 @@
         background-color: rgba(0, 0, 0, 0.2);
         border-top: 3px solid $white;
       }
+    }
+    @include breakpoint(medium){
+      width: 60vw;
     }
   }
   .imagen {
@@ -272,27 +275,51 @@
     }
   }
   p {
-    font-size: 1.4em;
-    padding: 0 15%;
+    font-size: 1em;
+    padding: 0;
+    @include breakpoint(medium){
+      padding: 0 15%;
+      font-size: 1.4em;
+    }
   }
 }
 
 .block-bloquedenodovalores {
   margin-bottom: 20px;
   h2 {
-    margin-bottom: 100px;
+    margin-bottom: 40px;
+    @include breakpoint(medium){
+      margin-bottom: 100px;
+    }
+
   }
   h5 {
     margin-bottom: 20px;
+    color: $dark-gray;
+    font-size: 1.4em;
+    bottom: 0;
+    background: #f6f6f6;
+    display: inline-block;
+    padding: 20px;
     &:before {
       content: "";
       width: 14px;
       height: 2px;
       background: $secondary-color;
       left: 48%;
-      top: 30px;
+      top: 50px;
       position: absolute;
     }
+    &:hover{
+      color: $primary-color;
+      cursor: pointer;
+      font-size: 1.6em;
+      bottom: 20px;
+      transition: all 0.3s ease;
+    }
+  }
+  p{
+    font-size: 1.3em;
   }
 }
 
@@ -342,6 +369,11 @@ a.feed-icon {
   .container-white {
     height: 390px;
   }
+  .img-news{
+    img{
+      width: 100%;
+    }
+  }
 }
 
 //Contacto
@@ -357,15 +389,21 @@ h2.location-title {
 .ubicacion {
   display: block;
   height: 101px;
-  border-bottom: 1px solid $medium-gray;
+  border-bottom: 1px solid $white;
   margin-bottom: 16px;
-  text-align: left;
+  text-align: center;
+  color: $white;
+  @include breakpoint(medium){
+    text-align: left;
+  }
   .title {
     font-weight: 600;
     text-transform: uppercase;
     font-size: 1.2em;
     margin-bottom: 8px;
+    color: $white;
   }
+
 }
 
 .section-contacto {
@@ -379,15 +417,26 @@ h2.location-title {
     margin-top: 0px;
   }
 }
+.block-views-block-ubications-block-1{
+  h2{
+    color: $white;
+  }
+}
 
 .contacto {
   h2 {
     color: $white;
-    font-size: 2.2em;
-    line-height: 38px;
+    font-size: 1.6em;
+    line-height: 24px;
+    text-align: center;
     &:before {
       left: 0;
       background: $secondary-color;
+    }
+    @include breakpoint(medium){
+      font-size: 2.2em;
+      line-height: 38px;
+      text-align: inherit;
     }
   }
   label {
@@ -406,6 +455,10 @@ h2.location-title {
 //Bloque selector de asuntos de contacto
 
 #block-asuntosdecontacto {
+  display: none;
+  @include breakpoint(medium){
+    display: block;
+  }
   a.asunto {
     height: 80px;
     border: 1px solid #466585;
@@ -431,7 +484,7 @@ h2.location-title {
         transition: all 0.8s ease;
       }
     }
-    &.active {
+    &:active {
       &:after {
         position: absolute;
         background: $secondary-color;
@@ -476,4 +529,16 @@ h2.location-title {
   margin-bottom: 30px;
   border-bottom: solid 1px #ccc5c5;
   padding-bottom: 30px;
+}
+
+//Twitter
+#block-twitter{
+  color: $white;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  margin-top: 24px;
+  margin-left:9px;
+  img{
+    margin-left: 8px;
+  }
 }
