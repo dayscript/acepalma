@@ -459,6 +459,15 @@ h2.location-title {
   @include breakpoint(medium){
     display: block;
   }
+  a.hovered{
+    position: absolute;
+    background: $secondary-color;
+    height: 80px;
+    content: "";
+    width: 100%;
+    opacity: 0.6;
+    transition: all 0.8s ease;
+  }
   a.asunto {
     height: 80px;
     border: 1px solid #466585;
