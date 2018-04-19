@@ -394,7 +394,7 @@ h2.location-title {
   text-align: center;
   color: $white;
   @include breakpoint(medium){
-    text-align: left;
+    text-align: center;
   }
   .title {
     font-weight: 600;
@@ -458,18 +458,6 @@ h2.location-title {
   display: none;
   @include breakpoint(medium){
     display: block;
-  }
-  a.hovered{
-    &:before {
-      content: "";
-      background: $secondary-color;
-      opacity: 0.83;
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-    }
   }
   a.asunto {
     height: 80px;
