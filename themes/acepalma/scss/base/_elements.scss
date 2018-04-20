@@ -62,10 +62,13 @@ h4, h5, h6 {
     }
   }
 }
-
+p{
+  font-size: 1.2em;
+}
 p.destacado {
   font-size: 1.2em;
   padding: 0 80px;
+  text-align: justify;
 }
 .button{
   text-transform: uppercase;
