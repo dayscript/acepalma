@@ -531,6 +531,23 @@ h2.location-title {
   padding-bottom: 30px;
 }
 
+.msg-asunto{
+  color: $white;
+  padding: 0 45px;
+  font-size: 1em;
+  line-height: 18px;
+  position: relative;
+  margin-bottom: 28px;
+  &:before{
+    content: "";
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 38px;
+    right: 49%;
+    background-image: url("../images/down.png");
+  }
+}
 //Twitter
 #block-twitter{
   color: $white;
