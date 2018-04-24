@@ -178,11 +178,11 @@
 .container-white {
   background: $white;
   padding: 18px 12px 12px 12px;
-  height: 280px;
+  height: 300px;
   margin-bottom: 16px;
   .title {
     a {
-      font-size: 1.1em;
+      font-size: 1.2em;
       font-weight: 600;
       position: relative;
       margin-bottom: 30px;
@@ -361,7 +361,7 @@ a.feed-icon {
     }
   }
   .container-white {
-    height: 390px;
+    height: 414px;
   }
   .img-news{
     img{
@@ -382,8 +382,7 @@ h2.location-title {
 
 .ubicacion {
   display: block;
-  height: 184px;
-  border-bottom: 1px solid $white;
+  height: 110px;
   margin-bottom: 16px;
   text-align: center;
   color: $white;
