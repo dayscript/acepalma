@@ -162,14 +162,8 @@
     font-size: 2.6vw;
     text-align: center;
     color: $white;
-    table tbody {
-      background-color: transparent;
-      border: 3px solid $white;
-      tr:nth-child(even) {
-        border-bottom: 0;
-        background-color: rgba(0, 0, 0, 0.2);
-        border-top: 3px solid $white;
-      }
+    p{
+      line-height: 1.2em;
     }
     @include breakpoint(medium){
       width: 60vw;
