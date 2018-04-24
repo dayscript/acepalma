@@ -14,6 +14,7 @@ h4, h5, h6 {
   position: relative;
   margin-bottom: 20px;
   line-height: 1em;
+  color: $primary-color;
   @include breakpoint(medium){
     margin-bottom: 60px;
   }
