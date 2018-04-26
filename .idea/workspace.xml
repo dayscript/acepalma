@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f4ddfa1a-9854-48d8-b249-0edffc9c9ce4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/css/acepalma.css" afterPath="$PROJECT_DIR$/themes/acepalma/css/acepalma.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/css/acepalma.css.map" afterPath="$PROJECT_DIR$/themes/acepalma/css/acepalma.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/acepalma/scss/modules/_block.scss" afterPath="$PROJECT_DIR$/themes/acepalma/scss/modules/_block.scss" />
     </list>
     <ignored path="acepalma.iws" />
@@ -42,10 +44,8 @@
         <entry file="file://$PROJECT_DIR$/themes/acepalma/scss/modules/_block.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.9512987">
-              <caret line="581" column="3" selection-start-line="581" selection-start-column="3" selection-end-line="581" selection-end-column="3" />
-              <folding>
-                <marker date="1524764270000" expanded="true" signature="10058:10101" placeholder="{...}" />
-              </folding>
+              <caret line="591" column="25" selection-start-line="591" selection-start-column="25" selection-end-line="591" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -529,9 +529,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="195" column="20" selection-start-line="195" selection-start-column="20" selection-end-line="195" selection-end-column="20" />
-          <folding>
-            <marker date="1524764270000" expanded="true" signature="10058:10101" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -579,9 +577,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1524764270000" expanded="true" signature="10058:10101" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -880,10 +876,8 @@
     <entry file="file://$PROJECT_DIR$/themes/acepalma/scss/modules/_block.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9512987">
-          <caret line="581" column="3" selection-start-line="581" selection-start-column="3" selection-end-line="581" selection-end-column="3" />
-          <folding>
-            <marker date="1524764270000" expanded="true" signature="10058:10101" placeholder="{...}" />
-          </folding>
+          <caret line="591" column="25" selection-start-line="591" selection-start-column="25" selection-end-line="591" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
