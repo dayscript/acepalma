@@ -572,3 +572,17 @@ section#block-views-block-vista-de-cifras-block-1 {
   background: $white;
   padding: 54px 0;
 }
+
+//Capacidad
+
+section#block-informacioncapacidadlogistica {
+  padding: 51px 0;
+  p.capacidad {
+    font-size: 2em;
+  }
+  h4{
+    &:before{
+      display:none;
+    }
+  }
+}
