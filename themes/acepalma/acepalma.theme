@@ -20,13 +20,12 @@ function acepalma_preprocess_field(&$variables, $hook) {
  * Adds additional classes
  */
 function acepalma_preprocess_html(&$variables) {
-  $variables['path_info']['args'] = FALSE;
-  $path = \Drupal::request()->getPathInfo();
-  $path_args = explode('/', $path);
-  if (count($path_args) >= 3) {
-    $variables['path_info']['args'] = Html::cleanCssIdentifier(ltrim($path, '/'));
+  $path = \Drupal::service('path.alias_manager')->getPathByAlias(\Drupal::request()->getPathInfo());
+  if(preg_match('/node\/(\d+)/', $path, $matches)) {
+    $node = \Drupal\node\Entity\Node::load($matches[1]);
+    $variable['node_id'] = $node->id;
   }
-
+  
 }
 
 /**
