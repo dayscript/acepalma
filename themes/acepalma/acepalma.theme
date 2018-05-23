@@ -23,6 +23,9 @@ function acepalma_preprocess_html(&$variables) {
   if ($node = \Drupal::request()->attributes->get('node')) {
     $variables['attributes']['class'][] = 'page-node-' . $node->id();
     $path = \Drupal::request()->getPathInfo();
+    $path = str_replace('/','-',$path);
+    $variables['attributes']['class'][] = 'path-' . $path;
+
   }
 }
 
