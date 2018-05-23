@@ -22,6 +22,9 @@ function acepalma_preprocess_field(&$variables, $hook) {
 function acepalma_preprocess_html(&$variables) {
   if ($node = \Drupal::request()->attributes->get('node')) {
     $variables['attributes']['class'][] = 'page-node-' . $node->id();
+    $path = \Drupal::request()->getPathInfo();
+    $path_args = explode('/', $path);
+    $variables['attributes']['class'][] = Html::cleanCssIdentifier(ltrim($path, '/'));
   }
 }
 
