@@ -20,6 +20,9 @@ function acepalma_preprocess_field(&$variables, $hook) {
  * Adds additional classes
  */
 function acepalma_preprocess_html(&$variables) {
+  if ($node = \Drupal::request()->attributes->get('node')) {
+    $variables['nid'] = 'page-node-' . $node->id();
+  }
 }
 
 /**
