@@ -8,3 +8,28 @@
     }
   }
 }
+#block-productosyservicios {
+	nav#block-productosyservicios {
+    background: $primary-color;
+  }
+  ul.menu > li > a {
+    background-color: $primary-color !important;
+    border-bottom: 1px solid #6DA6CB;
+    color: $white;
+    padding: 36px 16px !important;
+    font-family: "Quicksand",sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  ul.menu > li {
+  	  	width: 100%;
+  		display: block;
+    a.is-active {
+      position: relative;
+      background-color: #31678A !important;
+      &:after {
+        display: none;
+      }
+    }
+  }
+}

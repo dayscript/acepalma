@@ -51,7 +51,7 @@ img.logo {
   }
 }
 
-.section-acerca-de-nosotros, .section-productos-y-servicios {
+.page-node-10, .section-productos-y-servicios, body[class*='en-productos-y-servicios'] {
   .we-mega-menu-ul > .we-mega-menu-li {
     border-left: 0px solid #E1E3E5 !important;
     &.active > a {
@@ -170,31 +170,31 @@ img.logo {
 }
 
 //Titulares-fondos
-.section-acerca-de-nosotros, .section-politicas-de-privacidad, .section-user {
+.page-node-10, .section-politicas-de-privacidad, .section-user {
   #block-titulodelapagina {
     background-image: url("../images/bg/about.jpg");
   }
 }
 
-.section-productos-y-servicios {
+.section-productos-y-servicios, body[class*='en-productos-y-servicios'] {
   #block-titulodelapagina {
     background-image: url("../images/bg/productos.jpg");
   }
 }
 
-.section-sostenibilidad {
+.section-sostenibilidad, .en-sostenibilidad{
   #block-titulodelapagina {
     background-image: url("../images/bg/sostenibilidad.jpg");
   }
 }
 
-.section-noticias, .section-noticia {
+.section-noticias, .section-noticia, .en-noticias {
   #block-titulodelapagina {
     background-image: url("../images/bg/noticias.jpg");
   }
 }
 
-.section-contacto {
+.page-node-115 {
   #block-titulodelapagina {
     background-image: url("../images/bg/contacto.jpg");
   }
