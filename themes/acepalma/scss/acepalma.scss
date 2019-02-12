@@ -109,14 +109,28 @@ $flex: false;
 
 
 #block-alternadordeidioma{
+  ul{
+    width: 32px;
+    float: right;
+    li{
+      text-decoration: none;
+      a{
+        color: rgba(255, 255, 255, 0);
+      }
+    }
+  }
  .en{
-    background-image: url(/sites/default/files/inline-images/eng.png);
-    background-position: 10px 10px;
-    background-size: 195px 11px;
+   background-image: url(/sites/default/files/inline-images/eng.png);
+   background-position: -1px 1px;
+   background-size: 36px 17px;
+   width: 37px;
+   color: rgba(255, 255, 255, 0);
  }
  .es{
     background-image: url(/sites/default/files/inline-images/esp.png);
-    background-position: 10px 10px;
-    background-size: 195px 11px;
+    background-position: -1px 1px;
+    background-size: 36px 17px;
+    width: 37px;
+    color: rgba(255, 255, 255, 0);
  }
 }
