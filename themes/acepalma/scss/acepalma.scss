@@ -105,3 +105,18 @@ $flex: false;
 .sostenibilidad .views-row:nth-child(odd) > div > div:nth-child(1) {
     float: right;
 }
+
+
+
+#block-alternadordeidioma{
+ .en{
+    background-image: url(/sites/default/files/inline-images/eng.png);
+    background-position: 10px 10px;
+    background-size: 195px 11px;
+ }
+ .es{
+    background-image: url(/sites/default/files/inline-images/esp.png);
+    background-position: 10px 10px;
+    background-size: 195px 11px;
+ }
+}
