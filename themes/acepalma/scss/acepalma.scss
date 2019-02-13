@@ -110,8 +110,9 @@ $flex: false;
 
 #block-alternadordeidioma{
   ul{
-    width: 32px;
+    width: 60px;
     float: right;
+    margin: 10px;
     li{
       text-decoration: none;
       a{
@@ -123,14 +124,18 @@ $flex: false;
    background-image: url(/sites/default/files/inline-images/eng.png);
    background-position: -1px 1px;
    background-size: 36px 17px;
-   width: 37px;
+   width: 26px;
+   height: 17px;
    color: rgba(255, 255, 255, 0);
+   margin: 10px;
  }
  .es{
     background-image: url(/sites/default/files/inline-images/esp.png);
     background-position: -1px 1px;
     background-size: 36px 17px;
-    width: 37px;
+    width: 26px;
+    height: 17px;
     color: rgba(255, 255, 255, 0);
+    margin: 10px;
  }
 }
