@@ -109,6 +109,8 @@ $flex: false;
 
 
 #block-alternadordeidioma{
+  display: inline-block;
+  width: 100%;
   ul{
     width: 60px;
     float: right;
@@ -131,7 +133,7 @@ $flex: false;
  }
  .es{
     background-image: url(/sites/default/files/inline-images/esp.png);
-    
+
     background-size: 36px 17px;
     width: 26px;
     height: 17px;
