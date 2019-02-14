@@ -219,9 +219,9 @@
 }
 
 //Seccion noticias
-
 .section-noticias, .section-sostenibilidad, .section-productos-y-servicios,
-.section-noticia, .en-productos-y-servicios-oils-and-derivates, .en-sostenibilidad,
+.section-noticia, .en-products-and-services-oils-and-derivates, .en-products-and-services-services,
+.en-products-and-services-agricultural-supply, .en-products-and-services-industrial-supply, .en-sostenibilidad,
 .en-noticias {
   .container-firts, .container-subcontent, .container-new {
     display: none;
@@ -254,7 +254,7 @@
 }
 
 //Seccion nosotros
-.about, .section-sostenibilidad, .en-sostenibilidad {
+.about, .section-sostenibilidad, .en-sostenibilidad  {
   h1, h2, h3,
   h4, h5, h6 {
     &:before {

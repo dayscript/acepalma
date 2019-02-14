@@ -71,6 +71,26 @@ img.logo {
   }
 }
 
+.page-node-10, .en-products-and-services, body[class*='en-products-and-services'] {
+  .we-mega-menu-ul > .we-mega-menu-li {
+    border-left: 0px solid #E1E3E5 !important;
+    &.active > a {
+      position: relative;
+      &:after {
+        top: 53px;
+        right: 0;
+        content: "";
+        height: 4px;
+        background-color: $secondary-color;
+        width: 100%;
+        position: absolute;
+        opacity: 1;
+        background-image: none;
+      }
+    }
+  }
+}
+
 .we-mega-menu-ul > .we-mega-menu-li {
   border-left: 0px solid #E1E3E5 !important;
   &.dropdown-menu {
@@ -163,39 +183,47 @@ img.logo {
   }
 }
 
+
 #block-titulodelapagina > div {
   max-width: 75rem;
   margin-right: auto;
   margin-left: auto;
 }
 
+
 //Titulares-fondos
 .page-node-10, .section-politicas-de-privacidad, .section-user {
-  #block-titulodelapagina {
+  .l-help {
     background-image: url("../images/bg/about.jpg");
   }
 }
 
 .section-productos-y-servicios, body[class*='en-productos-y-servicios'] {
-  #block-titulodelapagina {
+  .l-help {
+    background-image: url("../images/bg/productos.jpg") ;
+  }
+}
+
+.en-products-and-services, body[class*='en-products-and-services'] {
+  .l-help {
     background-image: url("../images/bg/productos.jpg");
   }
 }
 
-.section-sostenibilidad, .en-sostenibilidad{
-  #block-titulodelapagina {
+.section-sostenibilidad, .en-sostenibilidad, .en-sustainability {
+  .l-help {
     background-image: url("../images/bg/sostenibilidad.jpg");
   }
 }
 
-.section-noticias, .section-noticia, .en-noticias {
-  #block-titulodelapagina {
+.section-noticias, .section-noticia, .en-noticias, .en-news {
+  .l-help {
     background-image: url("../images/bg/noticias.jpg");
   }
 }
 
 .page-node-115 {
-  #block-titulodelapagina {
+  .l-help {
     background-image: url("../images/bg/contacto.jpg");
   }
 }
