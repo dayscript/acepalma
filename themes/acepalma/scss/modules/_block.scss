@@ -601,3 +601,33 @@ section#block-informacioncapacidadlogistica {
     }
   }
 }
+
+.en-products-and-services-oils-and-derivates,
+.en-products-and-services-industrial-supply,
+.en-products-and-services-services,
+.en-products-and-services-agricultural-supply{
+  .title {
+    color: $primary-color;
+    font-weight: 600;
+    font-size: 1.4em;
+    position: relative;
+    margin-bottom: 24px;
+    &:after {
+      position: absolute;
+      content: "";
+      background: $primary-color;
+      width: 20px;
+      height: 1px;
+      left: 0;
+      bottom: -14px;
+    }
+  }
+  .container-white {
+    height: 400px;
+  }
+  .img-news{
+    img{
+      width: 100%;
+    }
+  }
+}
