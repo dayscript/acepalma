@@ -223,13 +223,26 @@
 .section-noticia, .en-products-and-services-oils-and-derivates, .en-products-and-services-services,
 .en-products-and-services-agricultural-supply, .en-products-and-services-industrial-supply, .en-sostenibilidad,
 .en-noticias {
-  .container-firts, .container-subcontent, .container-new {
+  .container-firts, .container-subcontent, .container-new{
     display: none;
   }
 }
 
-.section-acerca-de-nosotros, .en-about-us {
+.section-noticias, .section-sostenibilidad, .section-productos-y-servicios, .section-politicas-de-privacidad, .section-user,
+.section-noticia, .en-products-and-services-oils-and-derivates, .en-products-and-services-services,
+.en-products-and-services-agricultural-supply, .en-products-and-services-industrial-supply, .en-sostenibilidad,
+.en-noticias, .section-contacto, .en-contact-0 {
+  .container-mapcontent {
+    display: none;
+  }
+}
+
+
+.section-acerca-de-nosotros, .en-about-us, .section-products-and-services{
   .container-new {
+    display: none;
+  }
+  .block-views-block-ubications-block-1-2{
     display: none;
   }
 }
