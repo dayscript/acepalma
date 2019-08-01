@@ -1,0 +1,54 @@
+<?php
+session_start(); 
+
+if(isset($_SESSION['usuario']) and $_SESSION['estado'] == 'Autenticado') 
+{ 
+
+       // Lo dejas entrar a la pagina 
+} 
+else 
+{   
+       // Usuario que no se ha logueado 
+       echo "No tienes permiso para entrar a esta pagina"; 
+       exit(); 
+}  
+
+?>
+<html>
+<head>
+<title>capacidad-Recuperado</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (capacidad-Recuperado.psd) -->
+<table id="Tabla_01" width="1200" height="929" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="4">
+			<img src="images/etica2.jpg" width="1200" height="92" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="4">
+			<img src="images/etica02.jpg" width="1200" height="132" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="4">
+			<img src="images/etica2q.jpg" width="1200" height="181" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			<img src="images/etica05.jpg" width="666" height="524" alt=""></td>
+		<td colspan="3">
+			<img src="images/etica2q-05.jpg" width="534" height="460" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/etica2s.jpg" width="399" height="64" alt=""></td>
+		<td>
+			<img src="images/etica2a.jpg" width="66" height="64" alt=""></td>
+		<td>
+			<img src="images/etica2b.jpg" width="69" height="64" alt=""></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>

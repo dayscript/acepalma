@@ -1,0 +1,64 @@
+<?php
+session_start(); 
+
+if(isset($_SESSION['usuario']) and $_SESSION['estado'] == 'Autenticado') 
+{ 
+
+       // Lo dejas entrar a la pagina 
+} 
+else 
+{   
+       // Usuario que no se ha logueado 
+       echo "No tienes permiso para entrar a esta pagina"; 
+       exit(); 
+}  
+
+?>
+<html>
+<head>
+<title>Axesnet</title>
+
+<meta name="google-site-verification" content="l2PKvnt8A6j6MTZT2VHumRhdM-GKh7kdTPJEmry01EA" />
+<META HTTP-EQUIV="EXPIRES" CONTENT="0">
+<META NAME="RESOURCE-TYPE" CONTENT="DOCUMENT">
+<META NAME="DISTRIBUTION" CONTENT="GLOBAL">
+<META NAME="AUTHOR" CONTENT="Bienvenido a accionenvivo.com transmision en vivo, conciertos en vivo, television en vivo, transmision de futbol, video en vivo">
+
+<meta name="description" content="Transmision en vivo, peliculas online, television en vivo, streaming online, video en vivo, conciertos en vivo, futbol en vivo, streaming en vivo." />
+
+<meta name="keywords" content="Transmision en vivo, peliculas online, television en vivo, streaming online, video en vivo, conciertos en vivo, futbol en vivo, streaming en vivo." />
+
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+<META NAME="REVISIT-AFTER" CONTENT="1 DAYS">
+<META NAME="RATING" CONTENT="GENERAL">
+
+
+<META NAME="GENERATOR" CONTENT="PHP-Nuke Copyright (c) 2005 by Juan Jaramillo. This is free software, and you may redistribute it under the GPL (http://phpnuke.org/files/gpl.txt). PHP-Nuke comes with absolutely no warranty, for details, see the license (http://phpnuke.org/files/gpl.txt).">
+</head>
+
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="images/fondofedco.jpg">
+  <tr>
+    <td width="760"><img src="images/barrafedco.jpg" width="760" height="66"></td>
+  </tr>
+</table>
+<table background="images/fondo.gif" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="23%" valign="top"> 
+      <div align="left"><img src="images/habitat.gif" width="205" height="85" vspace="0" hspace="0"></div>    </td>
+    <td   width="100%" ></td>
+    <td valign="middle" width="32%" ><font face="Arial, Helvetica, sans-serif" size="-1"><img src="images/axesnet.gif" width="270" height="87"></font></td>
+  </tr>
+</table>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="592,47,650,111" href="https://www.facebook.com/gerenciarutadorada/?fref=ts" target="_blank" />
+  <area shape="rect" coords="660,47,722,113" href="https://twitter.com/ruta_dorada?lang=es" target="_blank" />
+  <area shape="rect" coords="730,43,787,122" href="https://www.instagram.com/rutadorada/" target="_blank" />
+  <area shape="rect" coords="795,44,926,122" href="https://www.youtube.com/channel/UCbIa_U8LhUwsm7e-SczxdPA" target="_blank" />
+  <area shape="rect" coords="268,17,529,49" href="quienes_somos.php" />
+  <area shape="rect" coords="260,60,556,99" href="paute.php" />
+</map>
+</body>
+</html>

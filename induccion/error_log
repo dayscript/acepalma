@@ -1,0 +1,11 @@
+[02-Jun-2019 20:00:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/crmhylac/public_html/acepalma/admin/funciones.php on line 5
+[02-Jun-2019 20:00:21 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/crmhylac/public_html/acepalma/validar_login.php on line 87
+[02-Jun-2019 20:00:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/crmhylac/public_html/acepalma/admin/funciones.php on line 5
+[02-Jun-2019 20:00:49 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/crmhylac/public_html/acepalma/validar_login.php on line 87
+[02-Jun-2019 20:00:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/crmhylac/public_html/acepalma/admin/funciones.php on line 5
+[02-Jun-2019 20:00:49 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/crmhylac/public_html/acepalma/validar_login.php on line 87
+[05-Jun-2019 22:01:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/crmhylac/public_html/acepalma/admin/funciones.php on line 5
+[05-Jun-2019 22:01:07 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/crmhylac/public_html/acepalma/validar_login.php on line 87
+[05-Jun-2019 22:01:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/crmhylac/public_html/acepalma/admin/funciones.php on line 5
+[05-Jun-2019 22:01:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/crmhylac/public_html/acepalma/validar_login.php:32) in /home/crmhylac/public_html/acepalma/validar_login.php on line 67
+[05-Jun-2019 22:01:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/crmhylac/public_html/acepalma/index2.php:2) in /home/crmhylac/public_html/acepalma/index2.php on line 28

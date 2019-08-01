@@ -1,0 +1,34 @@
+<?php
+session_start(); 
+
+if(isset($_SESSION['usuario']) and $_SESSION['estado'] == 'Autenticado') 
+{ 
+
+       // Lo dejas entrar a la pagina 
+} 
+else 
+{   
+       // Usuario que no se ha logueado 
+       echo "No tienes permiso para entrar a esta pagina"; 
+       exit(); 
+}  
+
+?>
+<html>
+<head>
+<title>colombia_palmera_02</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (colombia_palmera_02.jpg) -->
+<table id="Tabla_01" width="1200" height="773" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<img src="images/colombia_palmera_02_01.jpg" width="817" height="773" alt=""></td>
+		<td>
+			<img src="images/colombia_palmera_02_02.jpg" width="383" height="773" alt=""></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
